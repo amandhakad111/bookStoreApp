@@ -1,0 +1,17 @@
+import React from 'react'
+import Navbar from '../components/Navbar';
+import Bannar from '../components/Bannar';
+import Freebook from '../components/Freebook';
+import Footer from '../components/Footer';
+function Home() {
+    return (
+        <>
+            <Navbar />
+            <Bannar />
+            <Freebook />
+            <Footer />
+        </>
+    );
+}
+
+export default Home
