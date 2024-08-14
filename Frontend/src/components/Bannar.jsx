@@ -28,7 +28,7 @@ function Bannar() {
               <input type="text" className="grow" placeholder="Email" />
             </label>
           </div>
-          <button className="btn btn-secondary">Secondary</button>
+          <button className="btn btn-secondary">Get Started</button>
         </div>
         <div className="order-1 w-full md:w-1/2">
           <img src={banner} className="w-80 h-120" alt="" />
